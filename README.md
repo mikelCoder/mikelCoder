@@ -1,18 +1,24 @@
 ### Hi there 👋
+## What destination my time 🕜
 
-<!--
-**miguel2848/miguel2848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 &nbsp; Improve my skills as a programmer
+- 🐱 &nbsp; Play with Mika
+- 📕 &nbsp; Read books
+- 🎶 &nbsp; Listen to music
+- 🌀 &nbsp; Meditation
+- 🏃 &nbsp; 0% sports only walk
 
-Here are some ideas to get you started:
+## Technologies and Tools do I use in my day to day ⚡
+&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg"> &nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/django.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/jira.svg">&nbsp;
+<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-❯❯ Some of my recent contributions ↓
+## My Github Stats 🎉
+
+![susomejias Github Stats](https://github-readme-stats.vercel.app/api?username=miguel2848&show_icons=true&hide_border=true&hide=["issues"]&theme=dracula&icon_color=F86E96&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
+
+## >> Some of my recent contributions 🔰
