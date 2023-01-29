@@ -1,6 +1,6 @@
 # Hi there. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mlaurentec.repoName) [![GitHub followers](https://img.shields.io/github/followers/mlaurentec.svg?style=social&label=Follow)](https://github.com/mlaurentec?tab=followers)<br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F726&width=750&height=100&lines=Hey!+It's+Miguel+Laurente+;+and+I'm+a+Developer;I+have+very+good+experience+in;Web+scraping+%2C+Web+automation+;and+Data+Processing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F726&width=750&height=100&lines=Hey!+It's+Miguel+Laurente+)](https://git.io/typing-svg)
 
 <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="220" alt="giphy">](https://glomidev.online)
