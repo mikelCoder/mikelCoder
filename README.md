@@ -6,7 +6,7 @@
 [<img align='right' src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="220" alt="giphy">](https://glomidev.online)
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hey! It's Miguel Laurente and I'm a Developer located in in Lima-Perú. I have very good experience in Web scraping, Web automation and Data Processing.I have scrapped and automated too many sites in which I create a flexible bot that can perform several automation activities and can scrape and process data to the web. I had written almost 500+ scripts for scraping and automation. I have very rich experience in python selenium. I use this framework for automation and to scrape the data . I also work with web crawlers, beautifulsoup and vscode.
+
 
 
 
